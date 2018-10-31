@@ -1,0 +1,38 @@
+{
+  "name": "interactive_infographic",
+  "version": "1.0.0",
+  "description": "interactive infographic for determining standpoint in life",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tectone/interactive_infographic.git"
+  },
+  "keywords": [
+    "infographic",
+    "animation",
+    "pessimism",
+    "optimism",
+    "kids",
+    "deppression"
+    "erika"
+  ],
+  "author": "John Robertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tectone/interactive_infographic/issues"
+  },
+  "homepage": "https://github.com/Tectone/interactive_infographic#readme",
+  "dependencies": {
+    "eslint": "^5.7.0",
+    "sass": "^1.14.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
