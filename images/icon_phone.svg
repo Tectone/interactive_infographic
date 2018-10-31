@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-411 285 200 200" style="enable-background:new -411 285 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D8AF45;}
+	.st1{fill:#FFFFFF;}
+	
+	     .st1:hover{
+		 -webkit-animation: shake 1s linear infinite;
+		 -moz-animation: shake 1s linear infinite;
+		 -o-animation: shake 1s linear infinite;
+		 animation: shake 1s linear infinite;}
+	
+		@-webkit-keyframes shake {
+	10%, 90% {transform: translate3d(-1px, 0, 0);}
+	20%, 80% {transform: translate3d(2px, 0, 0);}
+	30%, 50%, 70% {transform: translate3d(-4px, 0, 0);}
+	40%, 60% {transform: translate3d(4px, 0, 0);}}
+	
+	@-moz-keyframes shake {
+	10%, 90% {transform: translate3d(-1px, 0, 0);}
+	20%, 80% {transform: translate3d(2px, 0, 0);}
+	30%, 50%, 70% {transform: translate3d(-4px, 0, 0);}
+	40%, 60% {transform: translate3d(4px, 0, 0);}}
+	
+	@-o-keyframes shake {
+	10%, 90% {transform: translate3d(-1px, 0, 0);}
+	20%, 80% {transform: translate3d(2px, 0, 0);}
+	30%, 50%, 70% {transform: translate3d(-4px, 0, 0);}
+	40%, 60% {transform: translate3d(4px, 0, 0);}}
+	
+	@keyframes shake {
+	10%, 90% {transform: translate3d(-1px, 0, 0);}
+	20%, 80% {transform: translate3d(2px, 0, 0);}
+	30%, 50%, 70% {transform: translate3d(-4px, 0, 0);}
+	40%, 60% {transform: translate3d(4px, 0, 0);}}
+		
+</style>
+
+
+<g id="background_1_">
+	<g id="background">
+		<circle class="st0" cx="-311" cy="385" r="94.5"/>
+	</g>
+</g>
+<g id="phone_2_">
+	<g id="phone_1_">
+		<path id="phone" class="st1" d="M-356.925,351.507c-7.377,30.077,20.43,61.667,23.929,65.167
+			c7.945,7.945,24.118,20.713,46.44,22.132c7.188,0.473,13.525-0.662,18.633-1.892c5.77-1.419,4.351-4.54,2.27-8.607l-5.864-7.567
+			c-1.608-1.608-6.999-10.026-9.553-2.932c-0.189,0.473-1.797,2.175-2.27,2.27c-27.618,5.486-53.25-39.819-54.858-53.912
+			c-0.189-1.797,0.662-3.594,2.175-4.635l0,0c1.892-1.324,2.648-3.783,1.892-5.959c-4.162-11.728-9.269-19.011-13.714-18.633
+			C-353.331,337.508-356.357,349.426-356.925,351.507z"/>
+	</g>
+</g>
+</svg>

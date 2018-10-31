@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+	 
+	 <style>
+	 
+	 #drop {
+	 	  -webkit-transition: all .3s ease-in-out;
+		  -moz-transition: all .3s ease-in-out;
+		  -o-transition: all .3s ease-in-out;
+		  transition: all .3s ease-in-out;}
+		  
+		  
+	 #drop:hover{
+		 -webkit-transform: translateY(25px);
+		 -moz-transform: translateY(25px;
+		 -o-transform: translateY(25px);
+	     transform: translateY(25px);}
+	 </style>
+	 
+	 
+<g id="background">
+	<circle fill="#825EA7" cx="100.151" cy="100.293" r="98.262"/>
+</g>
+<g id="drop">
+	<path id="drop_1_" fill="#FFFFFF" d="M131.307,118.8c0,17.29-14.017,31.307-31.307,31.307S68.693,136.09,68.693,118.8
+		S100,46.044,100,46.044S131.307,101.51,131.307,118.8z"/>
+	<path id="shine" fill="#825EA7" d="M99.213,140.607c0.045-0.012,0.09-0.021,0.134-0.034c0.393-0.115,0.78-0.246,1.164-0.384
+		c-0.096,0.001-0.191,0.005-0.289-0.001c-0.312-0.019-0.618-0.056-0.922-0.102c-0.892,0.005-1.792-0.101-2.677-0.28
+		c-0.234-0.013-0.47-0.057-0.706-0.115c-0.197-0.025-0.39-0.062-0.582-0.11c-0.272-0.03-0.545-0.078-0.814-0.169
+		c-0.27-0.05-0.535-0.115-0.792-0.212c-8.692-2.03-16.184-10.79-17.795-19.205c-0.253-1.319-0.353-2.598-0.332-3.841
+		c-0.661,3.887-0.316,7.978,1.219,11.845C80.522,137.317,89.908,142.289,99.213,140.607z"/>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<g id="background">
+	<circle fill="#96A6D8" cx="100.151" cy="100.293" r="98.262"/>
+</g>
+<g id="rewind">
+	<path id="circle" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-miterlimit="10" d="M94.317,59.718
+		c15.343-2.054,30.878,4.624,39.907,17.204c8.916,12.421,10.342,29.199,3.646,42.949c-6.574,13.498-20.228,22.672-35.216,23.608
+		c-15.123,0.944-29.874-6.508-38.085-19.244c-9.051-14.039-8.808-32.686,0.614-46.493c1.193-1.748,2.518-3.404,3.957-4.954"/>
+	<g id="cap">
+		<path fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" d="
+			M69.14,72.787c2.027-2.178,4.28-4.141,6.715-5.849"/>
+	</g>
+	<path id="arrow" fill="#FFFFFF" d="M99.99,48.765v20.441c0,1.077-0.98,1.752-1.769,1.219l-15.12-10.22
+		c-0.796-0.538-0.796-1.9,0-2.438l15.12-10.22C99.01,47.012,99.99,47.688,99.99,48.765z"/>
+</g>
+</svg>

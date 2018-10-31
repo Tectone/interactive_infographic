@@ -1,0 +1,335 @@
+@charset "UTF-8";
+/* CSS Document */
+			  
+				  
+ 
+	
+	/* Standard CSS -------------------------------------------
+	-----------------------------------------------------------*/
+	
+
+	body {
+		background: #383F53;
+			
+	}
+
+	p {
+		font-family: 'Didact Gothic', sans-serif;
+	}
+
+	#container {
+		width:100vw;
+	    margin: 0 auto;
+	    text-align: center;
+	    background-image: linear-gradient(#3C4153, #262d42) ;
+	}
+
+	header {
+
+		height: 200px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+
+	}
+
+	header p {
+		color: white;
+		font-size: 30px;
+	}
+
+	header h2 {
+		margin-top: 0px;
+		font-size: 60px;
+		color: white;
+	    font-family: 'Anton', sans-serif;
+	}
+
+	footer {
+		height: 480px;
+	}
+footer p {
+		color: white;
+		margin-bottom: 0px;
+		font-weight: bolder;
+		padding: 20px;
+	}
+
+	footer .p2 {
+		font-size: 20px;
+	}
+
+	footer h1 {
+		margin-top: 40px;
+		font-size: 60px;
+		color: white;
+		margin-bottom: 40px;
+	    font-family: 'Anton', sans-serif;
+	}
+
+footer h4 {
+	color: #97A5D6;
+   font-size: 35px;
+	 font-family: 'Anton', sans-serif;
+
+}
+
+	hr {
+		width: 30%;
+		text-align: center;
+		opacity: .5;
+		margin: 0 auto;
+		margin-top: 10px;
+	}
+
+	.results {
+		border: solid 3px #4f5467;
+		margin: 10px;
+	}
+
+
+
+	.masks {
+		height: 160px;
+	}
+
+	.hidden {
+		display: none;
+	}	
+
+	.fullWidth {
+	  width: 100%;
+	}
+
+	.row {
+	  margin: 0 0 0 0;
+	  max-width: 100%;
+	}
+
+	article {
+		height: 350px;
+	}
+
+	article object {
+		width: 200px;
+		margin-top: 30px;
+	}
+
+	article p {
+		font-weight: bold;
+		padding: 20px;
+		font-size: 20px;
+		color: white;
+	}
+
+
+
+	.copyright p {
+		color: white;
+		margin-top: 30px;
+		padding-top: 20px;
+		padding-bottom: 10px ;
+		margin-bottom: 0px;
+		font-size: 13px;
+		font-weight: bolder;
+
+
+	}
+
+	/* Box Colors -------------------------------------------
+	-----------------------------------------------------------*/
+	
+
+	.light {
+		background: #4f5467;
+	}
+
+
+	.dark {
+		background:#262d42 ;
+	}
+
+  
+				
+
+	
+	
+	
+	
+	/* Media Queries -------------------------------------------
+	-----------------------------------------------------------*/
+	
+
+
+	@media screen and (min-width: 320px) and (max-width: 640px) {
+			  
+	  .icon {
+		  padding: 10px;}
+
+	  header h2 {
+	  	font-size: 40px;
+	  }
+
+	  	header p {
+			font-size: 20px;
+		}
+
+		.masks {
+			margin-bottom: 20px;
+		}
+		
+
+		  }
+
+
+			
+
+@media screen and (min-width: 641px) and (max-width: 1025px) {
+		
+	   .icon {
+		  width: 160px;
+		  padding: 10px;
+		}
+
+		article {
+			height: 300px;
+		}
+
+		header h2 {
+			font-size: 35px;
+		}
+
+}
+
+@media screen and (min-width: 1026px) and (max-width: 1326px) {
+
+
+	header h2 {
+			font-size: 40px;
+		}
+
+	}
+
+		
+	
+	 
+	
+	
+	        
+		
+	/* Rotate -------------------------------------------
+	-----------------------------------------------------------*/
+	
+
+	#icon_sun:hover {
+	-webkit-animation: rotate 6s linear infinite;
+	-moz-animation: rotate 6s linear infinite;
+	-o-animation: rotate 6s linear infinite;
+	animation: rotate 6s linear infinite;}
+	
+	#icon_star:hover {
+	-webkit-animation: rotate 3s linear infinite;
+	-moz-animation: rotate 3s linear infinite;
+	-o-animation: rotate 3s linear infinite;
+	animation: rotate 3s linear infinite;}
+	
+	#icon_rewind:hover {
+	-webkit-animation: rotate 3s linear infinite;
+	-moz-animation: rotate 3s linear infinite;
+	-o-animation: rotate 3s linear infinite;
+	animation: rotate 3s linear infinite;}
+	
+	@-webkit-keyframes rotate {
+	0% {transform: rotate(0deg)}
+	100% {transform: rotate(360deg);}}
+	
+	@-moz-keyframes rotate {
+	0% {transform: rotate(0deg)}
+	100% {transform: rotate(360deg);}}
+	
+	@-o-keyframes rotate {
+	0% {transform: rotate(0deg)}
+	100% {transform: rotate(360deg);}}
+	
+	@keyframes rotate {
+	0% {transform: rotate(0deg)}
+	100% {transform: rotate(360deg);}}
+	
+	
+
+	/*Shake -------------------------------------------
+	-----------------------------------------------------------*/
+	
+	
+	@-webkit-keyframes shake {
+	10%, 90% {transform: translate3d(-1px, 0, 0);}
+	20%, 80% {transform: translate3d(2px, 0, 0);}
+	30%, 50%, 70% {transform: translate3d(-4px, 0, 0);}
+	40%, 60% {transform: translate3d(4px, 0, 0);}}
+	
+	@-moz-keyframes shake {
+	10%, 90% {transform: translate3d(-1px, 0, 0);}
+	20%, 80% {transform: translate3d(2px, 0, 0);}
+	30%, 50%, 70% {transform: translate3d(-4px, 0, 0);}
+	40%, 60% {transform: translate3d(4px, 0, 0);}}
+	
+	@-o-keyframes shake {
+	10%, 90% {transform: translate3d(-1px, 0, 0);}
+	20%, 80% {transform: translate3d(2px, 0, 0);}
+	30%, 50%, 70% {transform: translate3d(-4px, 0, 0);}
+	40%, 60% {transform: translate3d(4px, 0, 0);}}
+	
+	@keyframes shake {
+	10%, 90% {transform: translate3d(-1px, 0, 0);}
+	20%, 80% {transform: translate3d(2px, 0, 0);}
+	30%, 50%, 70% {transform: translate3d(-4px, 0, 0);}
+	40%, 60% {transform: translate3d(4px, 0, 0);}}
+	
+	
+
+	/* Bounce -------------------------------------------
+	-----------------------------------------------------------*/
+	
+	
+	@-webkit-keyframes bounce {
+	0% { transform: scale(1); }
+	15% { transform: scale(1.2); }
+	35% { transform: scale(0.8); }
+	50% { transform: scale(1.1); }
+	65% { transform: scale(0.9); }
+	85% { transform: scale(1.05); }
+	100% { transform: scale(1); }}
+	
+	@-moz-keyframes bounce {
+	0% { transform: scale(1); }
+	15% { transform: scale(1.2); }
+	35% { transform: scale(0.8); }
+	50% { transform: scale(1.1); }
+	65% { transform: scale(0.9); }
+	85% { transform: scale(1.05); }
+	100% { transform: scale(1); }}
+	
+	@-o-keyframes bounce {
+	0% { transform: scale(1); }
+	15% { transform: scale(1.2); }
+	35% { transform: scale(0.8); }
+	50% { transform: scale(1.1); }
+	65% { transform: scale(0.9); }
+	85% { transform: scale(1.05); }
+	100% { transform: scale(1); }}
+	
+	@keyframes bounce {
+	0% { transform: scale(1); }
+	15% { transform: scale(1.2); }
+	35% { transform: scale(0.8); }
+	50% { transform: scale(1.1); }
+	65% { transform: scale(0.9); }
+	85% { transform: scale(1.05); }
+	100% { transform: scale(1); }}
+	
+	
+	
+		
+		
+		
+
+
