@@ -46,5 +46,5 @@ And you’re done!
 
 ## References
 
-* [W3Schools](https://www.w3schools.com/xml/ajax_intro.asp) - Used for help since ajax is still a new topic to me.
-* [Codecademy](https://www.codecademy.com/learn) - Used to PHP and mySQL since both of those are still difficult for me.
+* [W3Schools](https://www.w3schools.com/xml/ajax_intro.asp)
+* [Codecademy](https://www.codecademy.com/learn)
