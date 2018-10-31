@@ -33,8 +33,11 @@ And you’re done!
 
 ## Built With:
 
-* [Foundations](https://foundation.zurb.com/) - Used to layout the HTML and CSS
-* [Javascript](https://www.javascript.com/) - Used for all animations and functionality
+* [Foundations](https://foundation.zurb.com/)
+* [Javascript](https://www.javascript.com/)
+* [Animate.CSS](https://daneden.github.io/animate.css/) 
+* [Google Fonts](https://fonts.google.com/)
+* [Hover.CSS](http://ianlunn.github.io/Hover/)
 
 
 ## Author
@@ -43,3 +46,5 @@ And you’re done!
 
 ## References
 
+* [W3Schools](https://www.w3schools.com/xml/ajax_intro.asp) - Used for help since ajax is still a new topic to me.
+* [Codecademy](https://www.codecademy.com/learn) - Used to PHP and mySQL since both of those are still difficult for me.
